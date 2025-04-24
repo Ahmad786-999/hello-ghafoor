@@ -6,6 +6,6 @@ public class hello {
         System.out.println("Ahmad Salman");
         }
         System.out.println("20/08/2006");
-        System.out.println("Forza Squadra");
+        System.out.println("Forza Spezia");
     }
 }
